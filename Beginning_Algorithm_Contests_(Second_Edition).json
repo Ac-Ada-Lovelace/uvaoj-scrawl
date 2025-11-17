@@ -1,0 +1,2738 @@
+{
+  "name": "AOAPC II: Beginning Algorithm Contests (Second Edition) (Rujia Liu)",
+  "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=827",
+  "kind": "FOLDER",
+  "children": [
+    {
+      "name": "Chapter 3. Arrays and Strings",
+      "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=828",
+      "kind": "FOLDER",
+      "children": [
+        {
+          "name": "Examples",
+          "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=829",
+          "kind": "FOLDER",
+          "children": [
+            {
+              "name": "272 - TEX Quotes",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=829&page=show_problem&problem=208",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10082 - WERTYU",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=829&page=show_problem&problem=1023",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "401 - Palindromes",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=829&page=show_problem&problem=342",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "340 - Master-Mind Hints",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=829&page=show_problem&problem=276",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1583 - Digit Generator",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=829&page=show_problem&problem=4458",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1584 - Circular Sequence",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=829&page=show_problem&problem=4459",
+              "kind": "FILE",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Exercises",
+          "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=830",
+          "kind": "FOLDER",
+          "children": [
+            {
+              "name": "1585 - Score",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=830&page=show_problem&problem=4460",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1586 - Molar mass",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=830&page=show_problem&problem=4461",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1225 - Digit Counting",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=830&page=show_problem&problem=3666",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "455 - Periodic Strings",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=830&page=show_problem&problem=396",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "227 - Puzzle",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=830&page=show_problem&problem=163",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "232 - Crossword Answers",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=830&page=show_problem&problem=168",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1368 - DNA Consensus String",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=830&page=show_problem&problem=4114",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "202 - Repeating Decimals",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=830&page=show_problem&problem=138",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10340 - All in All",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=830&page=show_problem&problem=1281",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1587 - Box",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=830&page=show_problem&problem=4462",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1588 - Kickdown",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=830&page=show_problem&problem=4463",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11809 - Floating-Point Numbers",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=830&page=show_problem&problem=2909",
+              "kind": "FILE",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chapter 4. Functions and Recursion",
+      "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=831",
+      "kind": "FOLDER",
+      "children": [
+        {
+          "name": "Examples",
+          "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=832",
+          "kind": "FOLDER",
+          "children": [
+            {
+              "name": "1339 - Ancient Cipher",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=832&page=show_problem&problem=4085",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "489 - Hangman Judge",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=832&page=show_problem&problem=430",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "133 - The Dole Queue",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=832&page=show_problem&problem=69",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "213 - Message Decoding",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=832&page=show_problem&problem=149",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "512 - Spreadsheet Tracking",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=832&page=show_problem&problem=453",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12412 - A Typical Homework (a.k.a Shi Xiong Bang Bang Mang)",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=832&page=show_problem&problem=3843",
+              "kind": "FILE",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Exercises",
+          "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=833",
+          "kind": "FOLDER",
+          "children": [
+            {
+              "name": "1589 - Xiangqi",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=833&page=show_problem&problem=4464",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "201 - Squares",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=833&page=show_problem&problem=137",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "220 - Othello",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=833&page=show_problem&problem=156",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "253 - Cube painting",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=833&page=show_problem&problem=189",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1590 - IP Networks",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=833&page=show_problem&problem=4465",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "508 - Morse Mismatches",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=833&page=show_problem&problem=449",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "509 - RAID!",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=833&page=show_problem&problem=450",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12108 - Extraordinarily Tired Students",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=833&page=show_problem&problem=3260",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1591 - Data Mining",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=833&page=show_problem&problem=4466",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "815 - Flooded!",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=833&page=show_problem&problem=756",
+              "kind": "FILE",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chapter 5. C++ and STL",
+      "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=834",
+      "kind": "FOLDER",
+      "children": [
+        {
+          "name": "Examples",
+          "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=835",
+          "kind": "FOLDER",
+          "children": [
+            {
+              "name": "10474 - Where is the Marble?",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=835&page=show_problem&problem=1415",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "101 - The Blocks Problem",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=835&page=show_problem&problem=37",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10815 - Andy's First Dictionary",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=835&page=show_problem&problem=1756",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "156 - Ananagrams",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=835&page=show_problem&problem=92",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12096 - The SetStack Computer",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=835&page=show_problem&problem=3248",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "540 - Team Queue",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=835&page=show_problem&problem=481",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "136 - Ugly Numbers",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=835&page=show_problem&problem=72",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "400 - Unix ls",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=835&page=show_problem&problem=341",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1592 - Database",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=835&page=show_problem&problem=4467",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "207 - PGA Tour Prize Money",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=835&page=show_problem&problem=143",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "814 - The Letter Carrier's Rounds",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=835&page=show_problem&problem=755",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "221 - Urban Elevations",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=835&page=show_problem&problem=157",
+              "kind": "FILE",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Exercises",
+          "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=836",
+          "kind": "FOLDER",
+          "children": [
+            {
+              "name": "1593 - Alignment of Code",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=836&page=show_problem&problem=4468",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1594 - Ducci Sequence",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=836&page=show_problem&problem=4469",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10935 - Throwing cards away I",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=836&page=show_problem&problem=1876",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10763 - Foreign Exchange",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=836&page=show_problem&problem=1704",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10391 - Compound Words",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=836&page=show_problem&problem=1332",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1595 - Symmetry",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=836&page=show_problem&problem=4470",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12100 - Printer Queue",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=836&page=show_problem&problem=3252",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "230 - Borrowers",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=836&page=show_problem&problem=166",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1596 - Bug Hunt",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=836&page=show_problem&problem=4471",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1597 - Searching the Web",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=836&page=show_problem&problem=4472",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12504 - Updating a Dictionary",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=836&page=show_problem&problem=3948",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "511 - Do You Know the Way to San Jose?",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=836&page=show_problem&problem=452",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "822 - Queue and A",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=836&page=show_problem&problem=763",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1598 - Exchange",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=836&page=show_problem&problem=4473",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12333 - Revenge of Fibonacci",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=836&page=show_problem&problem=3755",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "212 - Use of Hospital Facilities",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=836&page=show_problem&problem=148",
+              "kind": "FILE",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chapter 6. Data Structures",
+      "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=837",
+      "kind": "FOLDER",
+      "children": [
+        {
+          "name": "Examples",
+          "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=838",
+          "kind": "FOLDER",
+          "children": [
+            {
+              "name": "210 - Concurrency Simulator",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=838&page=show_problem&problem=146",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "514 - Rails",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=838&page=show_problem&problem=455",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "442 - Matrix Chain Multiplication",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=838&page=show_problem&problem=383",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11988 - Broken Keyboard (a.k.a. Beiju Text)",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=838&page=show_problem&problem=3139",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12657 - Boxes in a Line",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=838&page=show_problem&problem=4395",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "679 - Dropping Balls",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=838&page=show_problem&problem=620",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "122 - Trees on the level",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=838&page=show_problem&problem=58",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "548 - Tree",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=838&page=show_problem&problem=489",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "839 - Not so Mobile",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=838&page=show_problem&problem=780",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "699 - The Falling Leaves",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=838&page=show_problem&problem=640",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "297 - Quadtrees",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=838&page=show_problem&problem=233",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "572 - Oil Deposits",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=838&page=show_problem&problem=513",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1103 - Ancient Messages",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=838&page=show_problem&problem=3544",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "816 - Abbott's Revenge",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=838&page=show_problem&problem=757",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10305 - Ordering Tasks",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=838&page=show_problem&problem=1246",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10129 - Play on Words",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=838&page=show_problem&problem=1070",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10562 - Undraw the Trees",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=838&page=show_problem&problem=1503",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12171 - Sculpture",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=838&page=show_problem&problem=3323",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1572 - Self-Assembly",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=838&page=show_problem&problem=4364",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1599 - Ideal Path",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=838&page=show_problem&problem=4474",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "506 - System Dependencies",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=838&page=show_problem&problem=447",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11853 - Paintball",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=838&page=show_problem&problem=2953",
+              "kind": "FILE",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Exercises",
+          "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=839",
+          "kind": "FOLDER",
+          "children": [
+            {
+              "name": "673 - Parentheses Balance",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=839&page=show_problem&problem=614",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "712 - S-Trees",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=839&page=show_problem&problem=653",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "536 - Tree Recovery",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=839&page=show_problem&problem=477",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "439 - Knight Moves",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=839&page=show_problem&problem=380",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1600 - Patrol Robot",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=839&page=show_problem&problem=4475",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12166 - Equilibrium Mobile",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=839&page=show_problem&problem=3318",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "804 - Petri Net Simulation",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=839&page=show_problem&problem=745",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "806 - Spatial Structures",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=839&page=show_problem&problem=747",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "127 - \"Accordian\" Patience",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=839&page=show_problem&problem=63",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "246 - 10-20-30",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=839&page=show_problem&problem=182",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10410 - Tree Reconstruction",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=839&page=show_problem&problem=1351",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "810 - A Dicey Problem",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=839&page=show_problem&problem=751",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "215 - Spreadsheet Calculator",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=839&page=show_problem&problem=151",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12118 - Inspector's Dilemma",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=839&page=show_problem&problem=3270",
+              "kind": "FILE",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chapter 7. Brute Force",
+      "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=840",
+      "kind": "FOLDER",
+      "children": [
+        {
+          "name": "Examples",
+          "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=841",
+          "kind": "FOLDER",
+          "children": [
+            {
+              "name": "725 - Division",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=841&page=show_problem&problem=666",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11059 - Maximum Product",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=841&page=show_problem&problem=2000",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10976 - Fractions Again?!",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=841&page=show_problem&problem=1917",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "524 - Prime Ring Problem",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=841&page=show_problem&problem=465",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "129 - Krypton Factor",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=841&page=show_problem&problem=65",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "140 - Bandwidth",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=841&page=show_problem&problem=76",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1354 - Mobile Computing",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=841&page=show_problem&problem=4100",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10603 - Fill",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=841&page=show_problem&problem=1544",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1601 - The Morning after Halloween",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=841&page=show_problem&problem=4476",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11212 - Editing a Book",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=841&page=show_problem&problem=2153",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12325 - Zombie's Treasure Chest",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=841&page=show_problem&problem=3747",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1343 - The Rotation Game",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=841&page=show_problem&problem=4089",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1374 - Power Calculus",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=841&page=show_problem&problem=4120",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1602 - Lattice Animals",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=841&page=show_problem&problem=4477",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1603 - Square Destroyer",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=841&page=show_problem&problem=4478",
+              "kind": "FILE",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Exercises",
+          "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=842",
+          "kind": "FOLDER",
+          "children": [
+            {
+              "name": "208 - Firetruck",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=842&page=show_problem&problem=144",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "225 - Golygons",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=842&page=show_problem&problem=161",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "211 - The Domino Effect",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=842&page=show_problem&problem=147",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "818 - Cutting Chains",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=842&page=show_problem&problem=759",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "690 - Pipeline Scheduling",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=842&page=show_problem&problem=631",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12113 - Overlapping Squares",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=842&page=show_problem&problem=3265",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12558 - Egyptian Fractions (HARD version)",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=842&page=show_problem&problem=4003",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12107 - Digit Puzzle",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=842&page=show_problem&problem=3259",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1604 - Cubic Eight-Puzzle",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=842&page=show_problem&problem=4479",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11214 - Guarding the Chessboard",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=842&page=show_problem&problem=2155",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12569 - Planning mobile robot on Tree (EASY Version)",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=842&page=show_problem&problem=4014",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1533 - Moving Pegs",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=842&page=show_problem&problem=4308",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "817 - According to Bartjens",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=842&page=show_problem&problem=758",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "307 - Sticks",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=842&page=show_problem&problem=243",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11882 - Biggest Number",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=842&page=show_problem&problem=3004",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11846 - Finding Seats Again",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=842&page=show_problem&problem=2946",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11694 - Gokigen Naname",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=842&page=show_problem&problem=2741",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10384 - The Wall Pushers",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=842&page=show_problem&problem=1325",
+              "kind": "FILE",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chapter 8. Algorithm Design",
+      "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=843",
+      "kind": "FOLDER",
+      "children": [
+        {
+          "name": "Examples",
+          "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=844",
+          "kind": "FOLDER",
+          "children": [
+            {
+              "name": "120 - Stacks of Flapjacks",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=844&page=show_problem&problem=56",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1605 - Building for UN",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=844&page=show_problem&problem=4480",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1152 - 4 Values whose Sum is 0",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=844&page=show_problem&problem=3593",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11134 - Fabled Rooks",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=844&page=show_problem&problem=2075",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11054 - Wine trading in Gergovia",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=844&page=show_problem&problem=1995",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1606 - Amphiphilic Carbon Molecules",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=844&page=show_problem&problem=4481",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11572 - Unique Snowflakes",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=844&page=show_problem&problem=2619",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1471 - Defense Lines",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=844&page=show_problem&problem=4217",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1451 - Average",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=844&page=show_problem&problem=4197",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "714 - Copying Books",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=844&page=show_problem&problem=655",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10954 - Add All",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=844&page=show_problem&problem=1895",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12627 - Erratic Expansion",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=844&page=show_problem&problem=4352",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11093 - Just Finish it up",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=844&page=show_problem&problem=2034",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1607 - Gates",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=844&page=show_problem&problem=4482",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12174 - Shuffle",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=844&page=show_problem&problem=3326",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1608 - Non-boring sequences",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=844&page=show_problem&problem=4483",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1609 - Foul Play",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=844&page=show_problem&problem=4484",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1442 - Cav",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=844&page=show_problem&problem=4188",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12265 - Selling Land",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=844&page=show_problem&problem=3417",
+              "kind": "FILE",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Exercises",
+          "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=845",
+          "kind": "FOLDER",
+          "children": [
+            {
+              "name": "1149 - Bin Packing",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=845&page=show_problem&problem=3590",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1610 - Party Games",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=845&page=show_problem&problem=4485",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12545 - Bits Equalizer",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=845&page=show_problem&problem=3990",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11491 - Erasing and Winning",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=845&page=show_problem&problem=2486",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "177 - Paper Folding",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=845&page=show_problem&problem=113",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1611 - Crane",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=845&page=show_problem&problem=4486",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11925 - Generating Permutations",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=845&page=show_problem&problem=3076",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1612 - Guess",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=845&page=show_problem&problem=4487",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1613 - K-Graph Oddity",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=845&page=show_problem&problem=4488",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1614 - Hell on the Markets",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=845&page=show_problem&problem=4489",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1615 - Highway",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=845&page=show_problem&problem=4490",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1153 - Keep the Customer Satisfied",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=845&page=show_problem&problem=3594",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10570 - Meeting with Aliens",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=845&page=show_problem&problem=1511",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1616 - Caravan Robbers",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=845&page=show_problem&problem=4491",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1617 - Laptop",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=845&page=show_problem&problem=4492",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1618 - Weak Key",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=845&page=show_problem&problem=4493",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11536 - Smallest Sub-Array",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=845&page=show_problem&problem=2531",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1619 - Feel Good",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=845&page=show_problem&problem=4494",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1312 - Cricket Field",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=845&page=show_problem&problem=4058",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1620 - Lazy Susan",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=845&page=show_problem&problem=4495",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1621 - Jumping Around",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=845&page=show_problem&problem=4496",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1622 - Robot",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=845&page=show_problem&problem=4497",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1623 - Enter The Dragon",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=845&page=show_problem&problem=4498",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10366 - Faucet Flow",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=845&page=show_problem&problem=1307",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11175 - From D to E and Back",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=845&page=show_problem&problem=2116",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12559 - Finding Black Circles",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=845&page=show_problem&problem=4004",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1580 - Pirate Chest",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=845&page=show_problem&problem=4372",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1624 - Knots",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=845&page=show_problem&problem=4499",
+              "kind": "FILE",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chapter 9. Dynamic Programming",
+      "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=846",
+      "kind": "FOLDER",
+      "children": [
+        {
+          "name": "Examples",
+          "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=847",
+          "kind": "FOLDER",
+          "children": [
+            {
+              "name": "1025 - A Spy in the Metro",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=847&page=show_problem&problem=3466",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "437 - The Tower of Babylon",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=847&page=show_problem&problem=378",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1347 - Tour",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=847&page=show_problem&problem=4093",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "116 - Unidirectional TSP",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=847&page=show_problem&problem=52",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12563 - Jin Ge Jin Qu hao",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=847&page=show_problem&problem=4008",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11400 - Lighting System Design",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=847&page=show_problem&problem=2395",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11584 - Partitioning by Palindromes",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=847&page=show_problem&problem=2631",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1625 - Color Length",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=847&page=show_problem&problem=4500",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10003 - Cutting Sticks",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=847&page=show_problem&problem=944",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1626 - Brackets sequence",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=847&page=show_problem&problem=4501",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1331 - Minimax Triangulation",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=847&page=show_problem&problem=4077",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12186 - Another Crisis",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=847&page=show_problem&problem=3338",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1220 - Party at Hali-Bula",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=847&page=show_problem&problem=3661",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1218 - Perfect Service",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=847&page=show_problem&problem=3659",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10817 - Headmaster's Headache",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=847&page=show_problem&problem=1758",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1252 - Twenty Questions",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=847&page=show_problem&problem=3693",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1412 - Fund Management",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=847&page=show_problem&problem=4158",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10618 - Tango Tango Insurrection",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=847&page=show_problem&problem=1559",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1627 - Team them up!",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=847&page=show_problem&problem=4502",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10934 - Dropping water balloons",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=847&page=show_problem&problem=1875",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1336 - Fixing the Great Wall",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=847&page=show_problem&problem=4082",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12105 - Bigger is Better",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=847&page=show_problem&problem=3257",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1204 - Fun Game",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=847&page=show_problem&problem=3645",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12099 - The Bookcase",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=847&page=show_problem&problem=3251",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12170 - Easy Climb",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=847&page=show_problem&problem=3322",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1380 - A Scheduling Problem",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=847&page=show_problem&problem=4126",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10559 - Blocks",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=847&page=show_problem&problem=1500",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1439 - Exclusive Access 2",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=847&page=show_problem&problem=4185",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1228 - Integer Transmission",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=847&page=show_problem&problem=3669",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1375 - The Best Name for Your Baby",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=847&page=show_problem&problem=4121",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1628 - Pizza Delivery",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=847&page=show_problem&problem=4503",
+              "kind": "FILE",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Exercises",
+          "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=848",
+          "kind": "FOLDER",
+          "children": [
+            {
+              "name": "10285 - Longest Run on a Snowboard",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=848&page=show_problem&problem=1226",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10118 - Free Candies",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=848&page=show_problem&problem=1059",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1629 - Cake slicing",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=848&page=show_problem&problem=4504",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1630 - Folding",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=848&page=show_problem&problem=4505",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "242 - Stamps and Envelope Size",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=848&page=show_problem&problem=178",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10723 - Cyborg Genes",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=848&page=show_problem&problem=1664",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1631 - Locker",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=848&page=show_problem&problem=4506",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1632 - Alibaba",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=848&page=show_problem&problem=4507",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10163 - Storage Keepers",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=848&page=show_problem&problem=1104",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10641 - Barisal Stadium",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=848&page=show_problem&problem=1582",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1633 - Dyslexic Gollum",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=848&page=show_problem&problem=4508",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12093 - Protecting Zonk",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=848&page=show_problem&problem=3245",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1289 - Stacking Plates",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=848&page=show_problem&problem=3902",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1543 - Telescope",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=848&page=show_problem&problem=4318",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12589 - Learning Vector",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=848&page=show_problem&problem=4034",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1634 - The Picnic",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=848&page=show_problem&problem=4509",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10271 - Chopsticks",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=848&page=show_problem&problem=1212",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1379 - Pitcher Rotation",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=848&page=show_problem&problem=4125",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1443 - Garlands",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=848&page=show_problem&problem=4189",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12222 - Mountain Road",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=848&page=show_problem&problem=3374",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1371 - Period",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=848&page=show_problem&problem=4117",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1579 - Matryoshka",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=848&page=show_problem&problem=4371",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1322 - Minimizing Maximizer",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=848&page=show_problem&problem=4068",
+              "kind": "FILE",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chapter 10. Maths",
+      "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=849",
+      "kind": "FOLDER",
+      "children": [
+        {
+          "name": "Examples",
+          "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=850",
+          "kind": "FOLDER",
+          "children": [
+            {
+              "name": "11582 - Colossal Fibonacci Numbers!",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=850&page=show_problem&problem=2629",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12169 - Disgruntled Judge",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=850&page=show_problem&problem=3321",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10375 - Choose and divide",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=850&page=show_problem&problem=1316",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10791 - Minimum Sum LCM",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=850&page=show_problem&problem=1732",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12716 - GCD XOR",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=850&page=show_problem&problem=4454",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1635 - Irrelevant Elements",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=850&page=show_problem&problem=4510",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10820 - Send a Table",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=850&page=show_problem&problem=1761",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1262 - Password",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=850&page=show_problem&problem=3703",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1636 - Headshot",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=850&page=show_problem&problem=4511",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10491 - Cows and Cars",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=850&page=show_problem&problem=1432",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11181 - Probability|Given",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=850&page=show_problem&problem=2122",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1637 - Double Patience",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=850&page=show_problem&problem=4512",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "580 - Critical Mass",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=850&page=show_problem&problem=521",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12034 - Race",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=850&page=show_problem&problem=3185",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1638 - Pole Arrangement",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=850&page=show_problem&problem=4513",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12230 - Crossing Rivers",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=850&page=show_problem&problem=3382",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1639 - Candy",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=850&page=show_problem&problem=4514",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10288 - Coupons",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=850&page=show_problem&problem=1229",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11346 - Probability",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=850&page=show_problem&problem=2321",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10900 - So you want to be a 2n-aire?",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=850&page=show_problem&problem=1841",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11971 - Polygon",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=850&page=show_problem&problem=3122",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1640 - The Counting Problem",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=850&page=show_problem&problem=4515",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10213 - How Many Pieces of Land ?",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=850&page=show_problem&problem=1154",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1641 - ASCII Area",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=850&page=show_problem&problem=4516",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1363 - Joseph's Problem",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=850&page=show_problem&problem=4109",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11440 - Help Tomisu",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=850&page=show_problem&problem=2435",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10214 - Trees in a Wood.",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=850&page=show_problem&problem=1155",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1393 - Highways",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=850&page=show_problem&problem=4139",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1642 - Magical GCD",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=850&page=show_problem&problem=4517",
+              "kind": "FILE",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Exercises",
+          "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851",
+          "kind": "FOLDER",
+          "children": [
+            {
+              "name": "11040 - Add bricks in the wall",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=1981",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "808 - Bee Breeding",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=749",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1643 - Angle and Squares",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=4518",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1644 - Prime Gap",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=4519",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1213 - Sum of Different Primes",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=3654",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1210 - Sum of Consecutive Prime Numbers",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=3651",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10539 - Almost Prime Numbers",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=1480",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10622 - Perfect P-th Powers",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=1563",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "294 - Divisors",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=230",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1645 - Count",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=4520",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1646 - Edge Case",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=4521",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "557 - Burger",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=498",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11526 - H(n)",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=2521",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10886 - Standard Deviation",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=1827",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12063 - Zeros and Ones",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=3215",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1647 - Computer Transformation",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=4522",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11105 - Semi-prime H-numbers",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=2046",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10837 - A Research Problem",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=1778",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10868 - Bungee Jumping",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=1809",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1648 - Business Center",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=4523",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1649 - Binomial coefficients",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=4524",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10640 - Planes around the World",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=1581",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10479 - The Hendrie Sequence",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=1420",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "766 - Sum of powers",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=707",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1575 - Factors",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=4367",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12520 - Square Garden",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=3965",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1390 - Interconnect",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=4136",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1650 - Number String",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=4525",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11982 - Fantasy Cricket",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=3133",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12371 - Guards",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=3793",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12590 - Guards II",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=4035",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1414 - Hanoi Towers",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=4160",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1651 - Binary Operation",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=4526",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12212 - Password Remembering",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=3364",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1282 - Fibonacci Words",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=3895",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1652 - Fibonacci System",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=4527",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1653 - Yet Another Multiple Problem",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=4528",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10824 - Regular Polygon",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=1765",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11186 - Circum Triangle",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=2127",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12535 - Probability Through Experiments",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=3980",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1406 - A Sequence of Numbers",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=4152",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12508 - Triangles in the Grid",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=3952",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1654 - Pairs of integers",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=4529",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11246 - K-Multiple Free set",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=2203",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11166 - Power Signs",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=2107",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11895 - Honorary Tickets",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=2995",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11429 - Randomness",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=2424",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1655 - Exam",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=4530",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1656 - Exponential Towers",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=4531",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11303 - Permutations",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=2278",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1657 - Game",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=851&page=show_problem&problem=4532",
+              "kind": "FILE",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chapter 11. Graph Theory",
+      "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=852",
+      "kind": "FOLDER",
+      "children": [
+        {
+          "name": "Examples",
+          "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=853",
+          "kind": "FOLDER",
+          "children": [
+            {
+              "name": "12219 - Common Subexpression Elimination",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=853&page=show_problem&problem=3371",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1395 - Slim Span",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=853&page=show_problem&problem=4141",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1151 - Buy or Build",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=853&page=show_problem&problem=3592",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "247 - Calling Circles",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=853&page=show_problem&problem=183",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10048 - Audiophobia",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=853&page=show_problem&problem=989",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "658 - It's not a Bug, it's a Feature!",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=853&page=show_problem&problem=599",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "753 - A Plug for UNIX",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=853&page=show_problem&problem=694",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11082 - Matrix Decompressing",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=853&page=show_problem&problem=2023",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1658 - Admiral",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=853&page=show_problem&problem=4533",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1349 - Optimal Bus Route Design",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=853&page=show_problem&problem=4095",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12661 - Funny Car Racing",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=853&page=show_problem&problem=4399",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1515 - Pool construction",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=853&page=show_problem&problem=4261",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10735 - Euler Circuit",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=853&page=show_problem&problem=1676",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1279 - Asteroid Rangers",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=853&page=show_problem&problem=3892",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1659 - Help Little Laura",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=853&page=show_problem&problem=4534",
+              "kind": "FILE",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Exercises",
+          "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=854",
+          "kind": "FOLDER",
+          "children": [
+            {
+              "name": "821 - Page Hopping",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=854&page=show_problem&problem=762",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1001 - Say Cheese",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=854&page=show_problem&problem=3442",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "820 - Internet Bandwidth",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=854&page=show_problem&problem=761",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1660 - Cable TV Network",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=854&page=show_problem&problem=4535",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1661 - Equation",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=854&page=show_problem&problem=4536",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1662 - Brackets Removal",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=854&page=show_problem&problem=4537",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10801 - Lift Hopping",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=854&page=show_problem&problem=1742",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1663 - Purifying Machine",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=854&page=show_problem&problem=4538",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12549 - Sentry Robots",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=854&page=show_problem&problem=3994",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12264 - Risk",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=854&page=show_problem&problem=3416",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1664 - Conquer a New Region",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=854&page=show_problem&problem=4539",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1665 - Islands",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=854&page=show_problem&problem=4540",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1666 - Walk",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=854&page=show_problem&problem=4541",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1667 - Network Mess",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=854&page=show_problem&problem=4542",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1668 - Let's Go Green",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=854&page=show_problem&problem=4543",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1669 - Holiday's Accommodatio",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=854&page=show_problem&problem=4544",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1670 - Kingdom Roadmap",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=854&page=show_problem&problem=4545",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12214 - Traffic Jam",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=854&page=show_problem&problem=3366",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1518 - Train delays",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=854&page=show_problem&problem=4264",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12433 - Rent a Car",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=854&page=show_problem&problem=3864",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11671 - Sign of Matrix",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=854&page=show_problem&problem=2718",
+              "kind": "FILE",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chapter 12. Advanced Topics",
+      "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=855",
+      "kind": "FOLDER",
+      "children": [
+        {
+          "name": "Examples",
+          "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856",
+          "kind": "FOLDER",
+          "children": [
+            {
+              "name": "1671 - History of Languages",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=4546",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1672 - Disjoint Regular Expressions",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=4547",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1673 - str2int",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=4548",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12161 - Ironman Race in Treeland",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=3313",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11994 - Happy Painting!",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=3145",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1674 - Lightning Energy Report",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=4549",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12538 - Version Controlled IDE",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=3983",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "805 - Polygon Intersections",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=746",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1675 - Kingdom Reunion",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=4550",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12314 - The Cleaning Robot",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=3736",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1520 - Flights",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=4266",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1676 - GRE Words Revenge",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=4551",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11998 - Rujia Liu loves Wario Land!",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=3149",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1104 - Chips Challenge",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=3545",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12567 - Never7, Ever17 and Water",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=4012",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12110 - Gargoyle",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=3262",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12253 - Simple Encryption",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=3405",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12164 - The Great Game",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=3316",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1677 - Cycling",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=4552",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1678 - Huzita Axiom 6",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=4553",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1679 - Easy Geometry",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=4554",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12162 - Shooting the Monster",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=3314",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1017 - Merrily, We Roll Along!",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=3458",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1286 - Room Service",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=3899",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1288 - Shortest Flight Path",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=3901",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12565 - Lovely Magical Curves",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=4010",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11188 - A Strange Opera House",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=2129",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12308 - Smallest Enclosing Box",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=3730",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1680 - Journey",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=4555",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1097 - Rain",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=3538",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1681 - Dictionary",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=4556",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11199 - Equations in Disguise",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=2140",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1682 - Exclusive Access",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=4557",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11521 - Compressor",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=2516",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12417 - Formula Editor",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=3848",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12666 - Killer Puzzle",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=4404",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12731 - Mysterious Space Station",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856&page=show_problem&problem=4584",
+              "kind": "FILE",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Extra",
+          "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=857",
+          "kind": "FOLDER",
+          "children": [
+            {
+              "name": "1683 - In case of failure",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=857&page=show_problem&problem=4558",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12629 - Rectangle XOR Game",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=857&page=show_problem&problem=4354",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12698 - Safari Park",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=857&page=show_problem&problem=4436",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12711 - Game of Throne",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=857&page=show_problem&problem=4449",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12713 - Pearl Chains",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=857&page=show_problem&problem=4451",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12513 - Safe Places",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=857&page=show_problem&problem=3958",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11594 - All Pairs Maximum Flow",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=857&page=show_problem&problem=2641",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12415 - Digit Patterns",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=857&page=show_problem&problem=3846",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11993 - Girls' Celebration",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=857&page=show_problem&problem=3144",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10766 - Organising the Organisation",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=857&page=show_problem&problem=1707",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11118 - Prisoners, Boxes and Pieces of Paper",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=857&page=show_problem&problem=2059",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11915 - Recurrence",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=857&page=show_problem&problem=3066",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1684 - Escape Plan",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=857&page=show_problem&problem=4559",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1685 - Enjoyable Commutation",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=857&page=show_problem&problem=4560",
+              "kind": "FILE",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Exercises",
+          "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=858",
+          "kind": "FOLDER",
+          "children": [
+            {
+              "name": "12306 - My SketchUp",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=858&page=show_problem&problem=3728",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1686 - Tiling",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=858&page=show_problem&problem=4561",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1687 - Slicing Tree",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=858&page=show_problem&problem=4562",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12227 - Wormholes",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=858&page=show_problem&problem=3379",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1688 - Roof",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=858&page=show_problem&problem=4563",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1689 - International Event",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=858&page=show_problem&problem=4564",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "11425 - Collecting Luggage EXTREME!!!",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=858&page=show_problem&problem=2420",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1570 - Accelerator",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=858&page=show_problem&problem=4362",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1690 - Find a Minor",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=858&page=show_problem&problem=4565",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1573 - Hey, Better Bettor",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=858&page=show_problem&problem=4365",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1691 - Hip To Be Square",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=858&page=show_problem&problem=4566",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1692 - Labyrinth of the Minotaur",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=858&page=show_problem&problem=4567",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1693 - XAR",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=858&page=show_problem&problem=4568",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1290 - Takeover Wars",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=858&page=show_problem&problem=3903",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1694 - History course",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=858&page=show_problem&problem=4569",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12570 - Qualle? Quale?",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=858&page=show_problem&problem=4015",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "10383 - Queen vs Rook",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=858&page=show_problem&problem=1324",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "12566 - Melody \"Creation\"",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=858&page=show_problem&problem=4011",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1695 - Escape",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=858&page=show_problem&problem=4570",
+              "kind": "FILE",
+              "children": []
+            },
+            {
+              "name": "1696 - Traveling Spiders",
+              "url": "https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=858&page=show_problem&problem=4571",
+              "kind": "FILE",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
